@@ -24,7 +24,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/Vibration.java" target-dir="src/org/apache/cordova/vibration" />
+        <source-file src="src/android/Datepicker.java" target-dir="src/org/apache/cordova/datepicker" />
  
     </platform>
 
