@@ -1,11 +1,13 @@
 /**
  * 
  */
-package com.phonegap.cordova.datepicker;
+package org.apache.cordova.datepicker;
 
 import java.util.Calendar;
 import java.util.Date;
 
+import org.apache.cordova.CallbackContext;
+import org.apache.cordova.CordovaPlugin;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -19,8 +21,7 @@ import android.util.Log;
 import android.widget.DatePicker;
 import android.widget.TimePicker;
 
-import org.apache.cordova.api.CallbackContext;
-import org.apache.cordova.api.CordovaPlugin;
+ 
 
 /**
  * @author ng4e
