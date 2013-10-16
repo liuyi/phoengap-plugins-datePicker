@@ -11,7 +11,7 @@
     <keywords>cordova,datePicker</keywords>
 
     <js-module src="www/datePicker.js" name="datePicker">
- 
+        <merges target="navigator.datePicker" />
     </js-module>
 
     
