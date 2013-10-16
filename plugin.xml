@@ -20,7 +20,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="DatePickerPlugin">
-                <param name="android-package" value="org.apache.cordova.datepicker"/>
+                <param name="android-package" value="org.apache.cordova.datepicker.DatePickerPlugin"/>
             </feature>
         </config-file>
 

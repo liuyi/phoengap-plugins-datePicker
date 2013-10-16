@@ -7,6 +7,7 @@
     <ignored path="phoengap-plugins.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="33244ae2-a7e5-4eef-b0c3-d3c1e8ca12f2" time="1381886397326" ignored="false" />
+    <file path="/plugin.xml" changelist="33244ae2-a7e5-4eef-b0c3-d3c1e8ca12f2" time="1381888192693" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <file leaf-file-name="plugin.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="952" selection-end="952" vertical-scroll-proportion="0.6238532">
+            <state line="22" column="99" selection-start="772" selection-end="772" vertical-scroll-proportion="0.42889908">
               <folding />
             </state>
           </provider>
@@ -281,7 +282,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="952" selection-end="952" vertical-scroll-proportion="0.6238532">
+        <state line="22" column="99" selection-start="772" selection-end="772" vertical-scroll-proportion="0.42889908">
           <folding />
         </state>
       </provider>
